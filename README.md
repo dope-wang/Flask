@@ -1,3 +1,0 @@
-# Flask
-
-practice Flask project 
